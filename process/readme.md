@@ -2,7 +2,7 @@
 
 [TODO: Provide details regarding Solidity Code Review Paths]
 
-- [Paths Overview 🚦](./paths/overview-paths.md)
+- [Paths Overview 🚦](./paths/readme.md)
 
 
 
