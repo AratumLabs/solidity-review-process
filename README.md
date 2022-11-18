@@ -29,7 +29,7 @@ Feel free to open an Issue under our github project here:
 
 ## Code of Conduct
 
-Community members and developers must all adhere to our general [Code Of Conduct](./CODE_OF_CONDUCT.md) as they interact with each other. Please report any brenching of our Code Of Coduct policy to AratumLabs@protonmail.com or via Twitter @ 
+Community members and developers must all adhere to our general [Code Of Conduct](./CODE_OF_CONDUCT.md) as they interact with each other. Please report any brenching of our Code Of Coduct policy to AratumLabs@protonmail.com or via Twitter @ShepardCodes.
 
 ## License
 
