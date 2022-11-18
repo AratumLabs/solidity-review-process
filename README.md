@@ -20,11 +20,16 @@ Feel free to open an Issue under our github project here:
 
 ## Roadmap 
 
-| Roadmap Item | Date to Reach | Released | 
+| Roadmap Item | Date to Reach (Month) | Released | 
 |-|-|-|
 | Publish Repo | 2022-10-09 | ✔ |
-| Finish Readme.md Intro | 2022-10-30 | ✖ |
-| Upload original Solidity Code Review Paths | 2022-10-30 | ✖ |
+| Finish Readme.md Intro for project | 2022-11 | ✖ |
+| Upload original Solidity Code Review Paths | 2022-11 | ✖ |
+| Fill out first logical paths | 2022-12 | ✖ |
+
+## Code of Conduct
+
+Community members and developers must all adhere to our general [Code Of Conduct](./CODE_OF_CONDUCT.md) as they interact with each other. Please report any brenching of our Code Of Coduct policy to AratumLabs@protonmail.com or via Twitter @ 
 
 ## License
 
